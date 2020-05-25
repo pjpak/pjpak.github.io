@@ -1,0 +1,3 @@
+name: Peter J Pak
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
