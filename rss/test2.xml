@@ -1,0 +1,96 @@
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BizWest</title>
+	<atom:link href="https://bizwest.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bizwest.com/</link>
+	<description>The Business Journal of the Boulder Valley and Norther Colorado</description>
+	<lastBuildDate>Fri, 28 Oct 2022 20:11:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
+
+<image>
+	<url>https://bizwest.com/wp-content/uploads/2022/02/cropped-BW-icon-32x32.png</url>
+	<title>BizWest</title>
+	<link>https://bizwest.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wells: Are home prices falling in Northern Colorado? </title>
+		<link>https://bizwest.com/2022/10/28/wells-are-home-prices-falling-in-northern-colorado/</link>
+		
+		<dc:creator><![CDATA[Brandon Wells]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 20:11:34 +0000</pubDate>
+		<category><![CDATA[Residential Real Estate]]></category>
+		<category><![CDATA[Brandon Wells]]></category>
+		<guid isPermaLink="false">https://bizwest.com/?p=363378</guid>
+
+					<description><![CDATA[If you’ve been following media reports, you’ve certainly read or heard alarms about plunging home prices across the country. Many projections tell of prices falling 20% or more in some markets. Additionally, Moody’s Analytics has estimated there are 210 major housing markets that are overvalued by more than 20%.  Now, I will not pretend to &#8230; <a href="https://bizwest.com/2022/10/28/wells-are-home-prices-falling-in-northern-colorado/">Continued</a>]]></description>
+										<content:encoded><![CDATA[
+<p>If you’ve been following media reports, you’ve certainly read or heard alarms about plunging home prices across the country. Many projections tell of prices falling 20% or more in some markets. Additionally, Moody’s Analytics has estimated there are 210 major housing markets that are overvalued by more than 20%. </p>
+]]></content:encoded>
+		<featuredListing>
+                <![CDATA[
+                    <table>
+                        <tr>
+                            <td rowspan="2" style="width:50%;">
+                                <a href="https://bizwest.com/2022/10/28/wells-are-home-prices-falling-in-northern-colorado/">
+                                    <img src="" style="height:273px;width:364px;object-fit:cover;">
+                                </a>
+                            </td>
+                            <td style="padding:18px;vertical-align:bottom;">
+                                <a href="https://bizwest.com/2022/10/28/wells-are-home-prices-falling-in-northern-colorado/" style="color:rgb(0, 0, 0);font-size:30px;font-style:normal;font-style:normal;font-family:'Open Sans', Roboto, 'San Francisco', Helvetica, Arial, sans-serif;color:rgb(0, 0, 0);text-decoration:none;">
+                                    Wells: Are home prices falling in Northern Colorado? 
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding:18px;vertical-align:top;">
+                                <a href="https://bizwest.com/2022/10/28/wells-are-home-prices-falling-in-northern-colorado/" style="color:rgb(85,85,85);font-size:18px;font-weight:400;font-style:normal;font-family:'Open Sans', Roboto, 'San Francisco', Helvetica, Arial, sans-serif;color:rgb(0, 0, 0);text-decoration:none;">
+                                    
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+               ]]>
+               </featuredListing>
+<distinctiveHomes>
+                <![CDATA[
+                    <table>
+                        <tr>
+                            <td rowspan="2" style="width:50%;">
+                                <a href="https://bizwest.com/2022/10/28/wells-are-home-prices-falling-in-northern-colorado/">
+                                    <img src="" style="height:273px;width:364px;object-fit:cover;">
+                                </a>
+                            </td>
+                            <td style="padding:18px 18px 9px;vertical-align:bottom;text-align:center">
+                                <a href="https://bizwest.com/2022/10/28/wells-are-home-prices-falling-in-northern-colorado/" style="color:rgb(0, 0, 0);font-size:24px;font-style:normal;font-style:normal;font-family:'Open Sans', Roboto, 'San Francisco', Helvetica, Arial, sans-serif;color:rgb(0, 0, 0);text-decoration:none;">
+                                    Wells: Are home prices falling in Northern Colorado? 
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding:9px 18px 18px;vertical-align:top;">
+                                <a href="https://bizwest.com/2022/10/28/wells-are-home-prices-falling-in-northern-colorado/" style="color:rgb(85,85,85);font-size:14px;font-weight:400;font-style:normal;font-family:'Open Sans', Roboto, 'San Francisco', Helvetica, Arial, sans-serif;color:rgb(0, 0, 0);text-decoration:none;">
+                                    If you’ve been following media reports, you’ve certainly read or heard alarms about plunging home prices across the country. Many projections tell of prices falling 20% or more in some markets. Additionally, Moody’s Analytics has estimated there are 210 major housing markets that are overvalued by more than 20%.  Now, I will not pretend to &hellip; <a href="https://bizwest.com/2022/10/28/wells-are-home-prices-falling-in-northern-colorado/">Continued</a>
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+               ]]>
+               </distinctiveHomes>
+    </item>
+  </channel>
+</rss>
