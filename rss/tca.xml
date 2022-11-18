@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:mi="http://schemas.ingestion.microsoft.com/common/" xmlns:amc="http://www.acquiremedia.com/">
+<channel>
+<title>TCA: usailtdps_arc_tnscontent</title>
+<link>http://www.tribunecontentagency.com</link>
+<description>Tribune Content Agency, LLC</description>
+<language>en-us</language>
+<copyright>Copyright (C) 2022, Tribune Content Agency, LLC.  Portions copyrighted by the respective providers.</copyright>
+<pubDate>18 Nov 2022 17:40:24 EST</pubDate>
+<item>
+<title>Why the NFL’s new MVP voting process could’ve helped Russell Wilson in Seattle</title>
+<dc:contributor>News Service</dc:contributor>
+<author>Bob Condotta, The Seattle Times</author>
+<source>The Seattle Times</source>
+<link>https://www.seattletimes.com/sports/seahawks/why-the-nfls-new-mvp-voting-process-couldve-helped-russell-wilson-in-seattle/</link>
+<description>SEATTLE — For most of his decadelong career in Seattle, one overriding narrative surrounding Russell Wilson is that he never received a vote for NFL MVP. And depending on who you believe, it was something that reportedly gnawed at Wilson himself, and led to some friction at times over play-calling and Wilson’s role in the offense. But one reason Wilson never received a vote for MVP was the ...</description>
+<content:encoded><![CDATA[
+<p>SEATTLE — For most of his decadelong career in Seattle, one overriding narrative surrounding Russell Wilson is that he never received a vote for NFL MVP.</p>
+<p>And depending on who you believe, it was something that reportedly gnawed at Wilson himself, and led to some friction at times over play-calling and Wilson’s role in the offense.</p>
+]]></content:encoded>
+<pubDate>18 Nov 2022 17:38:00 EST</pubDate>
+<dc:modified>18 Nov 2022 17:38:00 EST</dc:modified>
+<mi:dateTimeWritten>18 Nov 2022 17:38:00 EST</mi:dateTimeWritten>
+<guid isPermaLink="false">202211181738MCT_____NEWS_SVC_28966_kniga</guid>
+<amc:slug>BC-FBN-MVP-VOTING:SE</amc:slug>
+<apcategory>s</apcategory>
+<category>Professional Sports</category>
+<category>Politics and Government</category>
+<category>Voting</category>
+<category>Elections</category>
+<category>Politics</category>
+<category>Sports</category>
+<category>Football (American)</category>
+<category>National Football League</category>
+<category>Team Sports</category>
+<category>North America</category>
+<category>United States</category>
+<category>Americas</category>
+<category>Washington</category>
+<category>Seattle, Washington</category>
+<category>Texas</category>
+<category>Houston, Texas</category>
+<media:content url="http://tca-media.acquiremedia.com/media/mct/image/download/202211181738MCT_____PHOTO____SPORTS-FBN-MVP-VOTING-GET" type="image/jpeg">
+    <media:title>Quarterback Russell Wilson #3 of the Seattle Seahawks leads his team onto the field to start the NFC Wild Card Playoff game against the Los Angeles Rams at Lumen Field on January 09, 2021, in Seattle, Washington.</media:title>
+    <media:credit>Steph Chambers/Getty Images North America/TNS</media:credit>
+    <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+</media:content>
+<amc:copyright>©2022 The Seattle Times. Visit seattletimes.com. Distributed by Tribune Content Agency, LLC.</amc:copyright>
+</item>
+</channel>
+</rss>
